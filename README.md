@@ -1,6 +1,6 @@
 ## Hi, I'm Romina 🌟
 
-🧠 CS Student | Learning java & C++
-💻 Interested in backend
-🛠 Currently working on personal projects
-📚 Exploring tech industry
+🧠 CS Student | Learning java & C++ <br/>
+💻 Interested in backend <br/>
+🛠 Currently working on personal projects <br/>
+📚 Exploring tech industry <br/>
